@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Fonbod-Wil/reduxtoolkit-react#readme",
   "dependencies": {
-    "@reduxjs/toolkit": "^2.11.2"
+    "@reduxjs/toolkit": "^2.11.2",
+    "axios": "^1.13.6",
+    "redux-logger": "^3.0.6"
   }
 }
